@@ -1,0 +1,1 @@
+{"state_dim": 25, "n_actions": 5, "gamma": 0.99, "epsilon": 0.4351424010585501, "epsilon_min": 0.01, "epsilon_decay": 0.995}
